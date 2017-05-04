@@ -1,6 +1,6 @@
 {
   "name": "bone-act-base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base64 image for bone",
   "main": "index.js",
   "license": "MIT",
@@ -13,11 +13,11 @@
     "type": "git",
     "url": "https://github.com/wyicwx/bone-act-base64.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "postcss": "^5.2.17",
     "postcss-url": "^6.0.4"
   },
-  "dependencies": {
+  "devDependencies": {
     "blanket": "*",
     "istanbul": "~0.3.2",
     "mocha": "*",
