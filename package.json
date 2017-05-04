@@ -1,0 +1,26 @@
+{
+  "name": "bone-act-base64",
+  "version": "1.0.0",
+  "description": "base64 image for bone",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "wyicwx",
+    "email": "wyicwx@gmail.com",
+    "web": "http://weibo.com/simplemaple"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyicwx/bone-act-base64.git"
+  },
+  "devDependencies": {
+    "postcss": "^5.2.17",
+    "postcss-url": "^6.0.4"
+  },
+  "dependencies": {
+    "blanket": "*",
+    "istanbul": "~0.3.2",
+    "mocha": "*",
+    "bone": "^0.3.0"
+  }
+}
