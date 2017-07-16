@@ -1,6 +1,6 @@
 {
   "name": "bone-act-base64",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "base64 image for bone",
   "main": "index.js",
   "license": "MIT",
